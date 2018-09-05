@@ -134,7 +134,7 @@ DEPENDENCIES
   uglifier (= 2.1.1)
 
 RUBY VERSION
-   ruby 2.0.0
+   ruby 2.3.7p456
 
 BUNDLED WITH
-   1.16.4
+   1.16.2
